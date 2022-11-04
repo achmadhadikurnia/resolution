@@ -1,6 +1,8 @@
-# 2023 Resolution
+# My Resolution List
 
-## Add skills
+## 2023 Resolution
+
+### Add skills
 - [ ] Node.js
 - [ ] Data Science
 - [ ] Machine Learning
